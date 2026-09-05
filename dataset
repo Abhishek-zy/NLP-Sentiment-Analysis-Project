@@ -1,0 +1,7 @@
+Dataset: IMDB Dataset of 50K Movie Reviews
+Source: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+Size: 50,000 movie reviews (25,000 positive / 25,000 negative)
+
+This dataset is not included directly in this repository due to its size.
+It is automatically downloaded at runtime using the kagglehub library
+(see source_code.py, Step 1).
